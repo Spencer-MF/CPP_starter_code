@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/spencerfranklin/C++ test code/CPP_starter_code/Test_code'
+relocations:     []
+...

@@ -1,17 +1,9 @@
-/*
-#include <stdio.h>
-
-int main()
-{
-    printf("hello world!");
-    return 0;
-}
-*/
-
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World\n";
+    cout << "Hello World" << endl
+         << "This is finally working";
     return 0;
 }
