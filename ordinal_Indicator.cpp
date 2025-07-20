@@ -4,14 +4,12 @@ using namespace std;
 
 string ordinal_check(int n);
 
-string main()
+int main()
 {
     int n;
     string indicator;
     cin >> n;
-    indicator = ordinal_check(n);
-
-    return indicator;
+    cout << ordinal_check(n) << endl;
 }
 
 string ordinal_check(int n)
